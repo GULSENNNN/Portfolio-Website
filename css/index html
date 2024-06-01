@@ -1,0 +1,15 @@
+<DOCTYPE html>  
+    <html lang="en">
+        <head>...<head>
+            <body>
+                <h1>HELLO WORD!</h1>
+                <button style="
+                background-color: #3ea6ff;
+                width:  170px;
+                height: 38px;
+                border: none;
+                text-transform: uppercase;
+                border-radius: 10px;
+                ">kanalı özelleştir</button> == $0
+    ......CSS BİZİM  STİLLENDİRMEMİZDE GÜZEL ESTETİK BUTONLAR YAZILAR YAPMAMIZA YARDIMCI OLUR 
+    BUTONUN YAZININ POZİSYONLARINI CSS İLE YAPIYORUZ
